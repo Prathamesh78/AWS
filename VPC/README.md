@@ -49,7 +49,7 @@ Launch Virtual Private Cloud in an AWS Region using CLI, Console and Boto3 SDK.
 
 ## SDK Python for Boto3
 
-To create a VPC with the above specific configuration, execute the python file using this command.
+To create a VPC with the above specific configuration, execute the python file using this command. Change the access key, secret access key and aws region.
 ```bash
 python vpc.py
 ```
