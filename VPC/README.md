@@ -46,3 +46,10 @@ Launch Virtual Private Cloud in an AWS Region using CLI, Console and Boto3 SDK.
 ```bash
    aws ec2 associate-route-table --route-table-id rtb-0b3e259885c36bb2d --subnet-id subnet-0a45434e978f36ed1
 ```
+
+## SDK Python for Boto3
+
+To create a VPC with the above specific configuration, execute the python file using this command.
+```bash
+python vpc.py
+```
