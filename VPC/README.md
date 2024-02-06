@@ -3,6 +3,8 @@
 
 Launch Virtual Private Cloud in an AWS Region using CLI, Console and Boto3 SDK.
 
+## About VPC
+Amazon Virtual Private Cloud is a commercial cloud computing service that provides a virtual private cloud, by provisioning a logically isolated section of Amazon Web Services Cloud.
 ## Console
 
 1. Open AWS Management Console, in search bar type VPC and click on it.
