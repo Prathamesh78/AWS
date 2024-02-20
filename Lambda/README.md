@@ -18,7 +18,7 @@ AWS Lambda follows a simple yet powerful architecture that allows you to run cod
 
 ## Example
 
-Below is an example simplified diagram illustrating how AWS Lambda works:
+Below is an example illustrating how AWS Lambda works:
 ![product-page-diagram_Lambda-WebApplications 2 c7f8cf38e12cb1daae9965ca048e10d676094dc1](https://github.com/prathamesh78/AWS/assets/104883046/81c6d393-9e22-4dcd-83c2-cf892245b3af)
 
 
